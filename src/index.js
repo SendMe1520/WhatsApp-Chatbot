@@ -6,7 +6,7 @@ import morgan from 'morgan';
 import routes from './routes/index.js'
 
 // port defined
-const port = 3000;
+const port = 80;
 
 // defining the Expres app
 const app = express();
